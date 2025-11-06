@@ -1,2 +1,2 @@
 # Mehrpooya2025_Dynamic1DOsteocyteNetwork
-Code associated with Meerhpooya A, Challis VJ, Buenzli PR (2025) A mathematical model of osteocyte network control of bone mechanical adaptation.
+MATLAB (R2022a) code used to generate discrete model and infinite-space solutions of the mathematical model presented in the research article _A mathematical model of osteocyte network control of bone mechanical adaptation_ by Adel Mehrpooya, Vivien J Challis, and Pascal R Buenzli (2025). Preprint available at: https://doi.org/10.1101/2025.10.10.681578.
